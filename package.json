@@ -1,0 +1,19 @@
+{
+  "name": "task-manager-app",
+  "version": "1.0.0",
+  "description": "Task Manager App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "mohammed maknojiya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.4"
+  }
+}
